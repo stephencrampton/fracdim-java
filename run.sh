@@ -1,0 +1,1 @@
+/usr/bin/env /Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home/bin/java -cp /Users/stephen/Library/Application\ Support/Code/User/workspaceStorage/e50cc4ccd93fb9b83fe6e1eba92d8300/redhat.java/jdt_ws/fracdim-java_f92a9830/bin org.stevec.fracdim.FracDim
